@@ -1,0 +1,1106 @@
+#frontpage{
+    height: 100vh;
+    overflow: hidden;
+}
+#section2{
+    overflow: hidden;
+    height: 100vh;
+    background: url("./img/map.jpg");
+}
+#logocostum{
+    height: 88px;
+    margin: 27px;
+    margin-right: 46px;
+    margin-left: 69px;
+    width: 68px;
+    position: relative;
+    top: 0;
+}
+.navbar{
+	height: 19vh;
+}
+.nav-item{
+}
+.vav{
+   font-weight: 500;
+   font-size: 5px;
+   color: white;
+   zoom: 3;
+   padding: 10px;
+
+}
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    position: absolute;
+    top: 62vh;
+
+}
+
+span svg{
+    height: 1em;
+    fill: white;
+    margin: 1px;
+    margin-left: 6px;
+}
+.section1{
+
+ height: 100vh;
+}
+.custom{
+  width: 100%;
+  overflow: hidden;
+
+}
+.carousel-caption{
+
+    position: absolute;
+    right: 45%;
+    top: 320px;
+    bottom: 1.25rem;
+    left: 1%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;    
+}
+#carousel-caption1{
+
+    position: absolute;
+    right: 53%;
+    top: 320px;
+    bottom: 1.25rem;
+    left: 1%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;    
+}
+#carousel-caption2{
+
+    position: absolute;
+    right: 58%;
+    top: 320px;
+    bottom: 1.25rem;
+    left: 1%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;    
+}
+#carousel-caption3{
+
+    position: absolute;
+    right: 58%;
+    top: 320px;
+    bottom: 1.25rem;
+    left: 1%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;    
+}
+
+.carousel-caption h3{
+    font-size: 4rem;
+}
+.svgsize{
+    display: block;
+    height: 61px;
+    padding: 16px;
+    fill-rule: evenodd;
+    background-color: white;
+    
+    border-radius: 100%;
+}
+.buttonsldier{
+    padding-left: 138px;
+}
+.svgsize:hover{
+    background-color: #e0e046;
+    
+
+
+}
+.pathcustom:hover{
+    fill:white;
+}
+.pathcustom1:hover{
+    fill:white;
+}
+.carousel-caption>h3{
+
+}
+.buttonlearnmore{
+ background: white;
+ width: 156px;
+ border-radius: 100px;
+ height: 61px;
+ display: grid;
+ align-content: center;
+ text-decoration: none;
+ align-items: center;
+ /* color: red; */
+ margin-left: 100px;
+ margin: -54px;
+ margin-left: 219px;
+ margin-top: -60px;
+ color: black;
+}
+.buttonlearnmore:hover{
+    color: white;
+    background-color: #e0e046;
+}
+.abc {
+ width: 38px;
+
+ height: 38px;
+
+ font-family: arial;
+ border-radius: 100%;
+
+ position: relative;
+ z-index: 1;
+
+ font-size: 10px;
+
+}
+.hsize{
+  font-size: 10px;
+}
+
+.gold {
+  background: gold;
+}
+.mapmainbox{
+   position: relative;
+   top: 238px;
+}
+#mapinnerbox1{
+    color: white;
+    margin-left: 327px;
+    font-size: 10px;
+}
+.mapinnerbox2{
+    margin-left: 267px;
+    margin-top: 15px;
+    color: white;
+    font-size: 10px;    
+}
+.mapinnerbox3{
+    margin-top: 23px;
+    color: white;
+    margin-left: 205px;
+    font-size: 10px;
+}
+.mapinnerbox4{
+
+    color: white;
+    font-size: 10px;
+    margin-left: 131px;
+    margin-top: 36px;
+}
+.mapmainbox{
+
+
+}
+/*Your second colour to toggle*/
+.blue {
+  background: dodgerblue;
+}
+.cloud{
+  overflow: hidden;
+  position: absolute;
+  top: 745px;
+  left: 0;
+  opacity: 0.2;
+  background-size:100vh ;
+  width: 100%;
+  height: 100%;
+  background: url(./img/cloud.png);
+  animation: animate 260s linear infinite;
+}
+#thisisneom{
+    POSITION: RELATIVE;
+    COLOR: WHITE;
+    margin: 85px;
+    font-size: 25px;
+    margin-top: 167px;
+    letter-spacing: 3px;
+}
+.thisisneomin{
+    font-size: 16px;
+    padding: 10px;
+    letter-spacing: 3px;
+}
+.yellow{
+    color: gold;
+}
+#line{
+    background: gold;
+    height: 4px;
+    margin-top: 191px;
+    margin-bottom: 20px;
+}       
+#thisneom{
+    margin-right: 90px;
+    color: white;
+}
+.aboutneom{
+    font-size: 25px;
+    margin-top: 15px;
+    color: gold;
+} 
+.subcontent{
+    font-size: 10px;
+}
+.contentofneom{
+    margin-top: 10px;
+    align-content: ;
+    text-align: justify;
+
+}
+
+#whyneom{
+    text-align: center;
+    padding: 28px;
+    color: gold;
+}
+#section3{
+    height:160vh;
+    background: black;
+    overflow: hidden;
+}
+.imggroup{
+    height: 67vh;
+    padding: 51px;
+    width: 67vh;
+}
+.imggroup1{
+    height: 67vh;
+    padding: 51px;
+    width: 67vh;
+}
+.invest-head{
+    color: white;
+    z-index: 2;
+    margin-top: 49px;
+    margin-left: -89px;
+    padding: 10px;
+    position: relative;
+    font-size: 91px;
+    font-weight: 500;
+    /* font-size: 78px; */
+}
+.invest-content{
+    color: white;
+    padding: -1px;
+    font-size: 124%;
+    margin-left: 14%;
+}
+.career-head{
+    color: white;
+    z-index: 2;
+    margin-top: 49px;
+    margin-left: 488px;
+    padding: 10px;
+    position: relative;
+    font-size: 91px;
+    font-weight: 500;
+    /* font-size: 78px; */
+}
+.career-content{
+  color: white;
+  padding: -1px;
+  z-index: 1;
+  position: relative;
+  font-size: 124%;
+  margin-left: 31%;
+}
+#section4{
+    height: 70vh;
+    overflow: hidden;
+}
+#sectionpartner{
+    z-index: 1;
+}
+#ourpartnervideo{
+    height: 118vh;
+}
+#ourpartner{
+    margin-top: -705px;
+    text-align: center;
+    justify-content: ;
+    display: flex;
+    color: white;
+    align-items: center;
+    /* justify-content: center; */
+    /* justify-items: center; */
+    flex-direction: column;
+}
+.part-head{
+    font-size: 56px;
+    padding: 17px;
+}
+.part-para{
+    padding-bottom: 33px;
+}
+.buttonlearnpartner{
+ background: #ffb300;;
+ width: 156px;
+ border-radius: 100px;
+ height: 61px;
+ display: grid;
+ align-content: center;
+ text-decoration: none;
+ align-items: center;
+
+ color: white;
+}
+.buttonlearnpartner:hover{
+    color: white;
+    background: yellow;
+}
+@import "https://fonts.googleapis.com/css?family=Open+Sans:800&display=swap";
+#happenneom{
+    justify-content: left;
+    align-content: center;
+    color: black;
+    display: flex;
+    font-size: 52px;
+    padding-left:220px;
+    margin-top: 58px;
+    font-weight: 700;
+    margin-bottom: 44px;
+}
+#happenneom div{
+    color: yellow;
+}
+.slider {
+
+ display: flex;
+ height:745px;
+ max-height: auto;
+/*  overflow-y: hidden;*/
+overflow-x: scroll !important;
+padding: 16px;
+padding-left: 171px;
+transform: scroll calc(var(--i,0)/var(--n)*-100%);
+scroll-behavior: smooth;
+}
+.slider::-webkit-scrollbar {
+ height: 5px;
+ width: 150px;
+ display: none;
+}
+.slider::-webkit-scrollbar-track {
+ background: transparent;
+}
+.slider::-webkit-scrollbar-thumb {
+ background: #888;
+}
+.slider::-webkit-scrollbar-thumb:hover {
+ background: #555;
+}
+.slider img:hover {
+ transform: scale(1.05);
+ box-shadow: 10px 10px 10px rgba(0,0,0,0.15);
+}
+.slidesload {
+
+ position: relative;
+ position: relative;
+ padding: 10px;
+ padding-left: 69px;
+}
+.slidercardiner h6{
+    font-weight: 400;
+    font-size: 1rem;
+    padding-top: 20px;
+}
+.learnevtbtnpost{
+ justify-items: center;
+ justify-content: left;
+ display: flex;
+}
+.learnevtbtnpost a{
+    background: #bbb622;
+    padding: 4px;
+    padding-left: 55px;
+    padding-right: 55px;
+    border-radius: 82px;
+    text-decoration: none;
+    color: black;
+}
+.slidesload img {
+ height: 70vh;
+ width: 55vh;
+
+ object-fit: cover;
+
+ cursor: pointer;
+ transition: .25s ease-in-out;
+}
+#footer{
+    height:89vh;
+    overflow: hidden;
+    padding-top: 62px;
+}
+.control-prev-btn {
+ position: absolute;
+ top: 485%;
+ left: 0;
+ background-color: #fffff;
+ height: 100px;
+ line-height: 100px;
+ width: 45px;
+ text-align: center;
+/*   box-shadow: 0 1px 3px #888;*/
+user-select: none;
+color: black;
+cursor: pointer;
+}
+.control-next-btn {
+ position: absolute;
+ top: 485%;
+ right: 0;
+ background-color: #fffff;
+ height: 100px;
+ line-height: 100px;
+ width: 45px;
+ text-align: center;
+/*   box-shadow: 0 1px 3px #888;*/
+user-select: none;
+color: black;
+cursor: pointer;
+}
+.slidesload img.zoomed{
+    width: 500px;
+    height: 600px;
+    position: fixed;
+    left: 25%;
+    top: 0%;
+    z-index: 1000;2
+    transform: scale(1) translatey(0) !important; 
+
+}
+
+.overlay.active{
+/*  display: block;*/
+}
+@media only screen and (max-width: 420px) {
+ .slider {
+   padding: 0;
+}
+.slidesload {
+   padding: 16px 10px;
+}
+.slidesload img {
+   margin: 0;
+}
+.control-prev-btn {
+   top: 37%;
+}
+.control-next-btn {
+   top: 37%;
+
+}
+
+}
+.section6{
+    height: 64vh;
+}
+#newltrstc{
+    background: url(./img/newsletterbgjpg.jpg);
+    background-size: contain;
+}
+#nlhead{
+    color: white;
+    font-size: 38px;
+    margin-top: 131px;
+}
+#nlsub{
+  color: white;
+}
+.formnl{
+    margin-left: -6px;
+    background: white;
+    border: 2px solid;
+    border-radius: 30px;
+    width: 434px;
+    height: 56px;
+    margin-top: 10px;
+    align-items: center;
+    display: flex;
+    padding-left: 15px;
+
+}
+.formnl input{
+    background: white;
+    border: none;
+    padding: 3px;
+    /* padding-left: 46px; */
+    box-shadow: none;
+}
+.formnl button{
+    margin-left: 106px;
+    color: white;
+    border-radius: 22px;
+    border: none;
+    background: #4e4040;
+    padding: 3px;
+    height: 43px;
+    width: 117px;
+}
+.text-ite{
+    text-decoration: none;
+    text-decoration: none;
+    color: gray;
+    display: flex;
+    padding-bottom: 10px;
+    /* letter-spacing: 2px; */
+    font-size: 16px;
+    padding-top: 10px;
+
+}
+.text-ite:hover{
+    color: gold;
+}
+.text-ite ul li{
+    padding-bottom: 16px;
+    /* letter-spacing: 2px; */
+    font-size: 16px;
+    display: grid;
+    align-content: left;
+
+    /* color: black; */
+    justify-content: flex-start;
+    padding-top: 27px;
+}
+.text-ite ul li a{
+    color: grey;
+    text-decoration: none;
+}
+
+.text-uppercase {
+    text-transform: uppercase!important;
+    display: flex;
+}
+#hrfooter{
+    background: #ffffff3d;
+    height: 0.1px;
+    width: 174vh;
+    margin-left: 75px;
+    margin-top: 23px;
+    margin-bottom: 23px;
+
+    /* margin: 10px; */
+}
+.btn-floating{
+    border: 1px solid #ebc03f;
+    background: #ebc03f;
+}
+.btn-floating:hover{
+    border: 1px solid gold;
+    background: gold;
+}
+.fab{
+    color: black;
+}
+.fh{
+    padding-top: 62px;
+}
+@keyframes animate{
+    0%{
+      background-position: 0px;
+  }
+  100%{
+      background-position: -5440px;
+  }
+}
+/*responsive*/
+/* For mobile phones: */
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 700px) and (min-width: 320px) {
+#frontpage{
+    height: 46vh;
+}
+
+#logocostum {
+    height: 53px;
+    width: 50px;
+    top: 0px;
+    margin-left: 10px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+
+    top: 31vh;
+}
+.carousel-caption  h3{
+    font-size: 15px;
+}
+.carousel-caption p{
+    font-size: 8px;
+    padding-left: 18px;
+}
+.carousel-caption  {
+    top: 47px;
+}
+#carousel-caption1 {
+    top: 47px;
+}
+#carousel-caption2 {
+    top: 47px;
+}
+#carousel-caption2 {
+    top: 47px;
+}
+#carousel-caption3 {
+    top: 47px;
+}
+.svgsize {
+    height: 28px;
+    padding: 10px;
+}
+.buttonsldier {
+    padding-left: 33px;
+}
+.buttonlearnmore {
+    width: 74px;
+    height: 27px;
+    margin: -54px;
+    margin-left: 78px;
+    margin-top: -26px;
+    font-size: 8px;
+}
+
+#map-media{
+    display: none;
+}
+#thisisneom{
+    font-size: 0px;
+    letter-spacing: 0px;
+    margin-top: 30px;
+}
+#thisisneom h1{
+    font-size: 1rem;
+}
+.thisisneomin {
+    font-size: 14px;
+    padding: 0px;
+    letter-spacing: 3px;
+}
+#line {
+height: 1px;
+    width: 286px;
+    margin-top: -88px;
+}
+.cloud{
+    top: 341px;
+}
+#thisneom {
+    margin-right: -16px;
+    padding: 33px;
+    /* color: white; */
+}
+.aboutneom{
+    font-size: 12px;
+}
+.contentofneom{
+    font-size: 15px;
+}
+#section3{
+    height: 136vh;
+}
+.imggroup {
+    height: 34vh;
+    padding: 14px;
+    width: 28vh;
+}
+.imggroup1 {
+    height: 34vh;
+    padding: 14px;
+    width: 28vh;
+}
+.img-col{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+.invest-head{
+    display: flex;
+    justify-content: center;
+    margin-top: -1px;
+    font-size: 24px;
+    margin-left: 0px;
+    padding: 1px;
+
+}
+.invest-content {
+    padding: 8px;
+    font-size: 73%;
+    align-content: justify;
+    text-align: justify;
+    margin-right: 48px;
+
+
+}
+.career-head{
+    display: flex;
+    justify-content: center;
+    margin-top: -1px;
+    font-size: 24px;
+    margin-left: 0px;
+    padding: 1px;
+
+}
+.career-content {
+    padding: 8px;
+    font-size: 73%;
+    align-content: justify;
+    text-align: justify;
+    position: relative;
+    left: -63px;
+    margin-right: -24px;
+
+
+}
+#section4{
+    height: 30vh;
+}
+#ourpartnervideo{
+    height: 95vh;
+}
+.part-head{
+    font-size: 24px;
+}
+.part-para{
+    font-size: 13px;
+    padding: 31px;
+    padding-top: 0px;
+
+}
+.buttonlearnpartner{
+    width: 122px;
+    height: 24px;
+    margin-top: -23px;
+}
+.buttonlearnpartner a{
+    font-size:12px ;
+}
+#happenneom{
+    padding-left: 40px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.slidesload img{
+    height: 21vh;
+    width: 19vh;
+}
+.slidercardiner h6{
+    font-size: 10px;
+    font-weight: 400;
+    text-align: justify;
+    padding-right: 21px;
+}
+.learnevtbtnpost a{
+    font-size: 10px;
+    padding: 0px;
+    padding-left: 39px;
+    padding-right: 39px;
+}
+.control-prev-btn,.control-next-btn{
+    top: 323%;
+}
+#section5{
+    height: 55vh;
+}
+.section6{
+    height: 33vh;
+
+}
+#newltrstc{
+    background-size: auto;
+}
+#nlhead{
+    font-size: 25px;
+    margin-top: 56px;
+}
+#nlsub{
+    font-size: 11px;
+}
+.formnl{
+    width: 265px;
+    height: 40px;
+}
+.formnl button{
+    margin-left: -25px;
+    height: 32px;
+    width: 82px;
+    font-size: 10px;
+}
+.text-ite{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 11px;
+}
+.text-uppercase{
+    font-size: 20px;
+}
+#footer{
+    padding-top: 2px;
+    height: 133vh;
+}
+.social-media h3{
+ font-size: 15px;
+}
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 1200px) and (min-width: 600px) {
+    #frontpage{
+    height: 56vh;
+}
+.vav{
+    padding: 2px;
+    font-size: 5px;
+}
+
+#logocostum {
+    height: 53px;
+    width: 50px;
+    top: 0px;
+    margin-left: 10px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+
+    top: 37vh;
+}
+.carousel-caption  h3{
+    font-size: 26px;
+}
+.carousel-caption p{
+    font-size: 8px;
+    padding-left: 18px;
+}
+.carousel-caption  {
+       top: 170px;
+    margin-left: 122px;
+    left: 15px;
+}
+#carousel-caption1 {
+        top: 170px;
+    margin-left: 122px;
+    left: 15px;
+}
+
+#carousel-caption2 {
+    top: 170px;
+    margin-left: 122px;
+    left: 15px;
+}
+#carousel-caption3 {
+    top: 170px;
+    margin-left: 122px;
+    left: 15px;
+}
+.svgsize {
+    height: 42px;
+    padding: 10px;
+}
+.buttonsldier {
+    padding-left: 33px;
+}
+.buttonlearnmore {
+    width: 130px;
+    height: 45px;
+    margin-left: 89px;
+    margin-top: -41px;
+    font-size: 17px;
+}
+
+#map-media{
+    display: none;
+}
+#thisisneom{
+    font-size: 0px;
+    letter-spacing: 0px;
+    margin-top: 30px;
+}
+#thisisneom h1{
+    font-size: 1rem;
+}
+.thisisneomin {
+    font-size: 14px;
+    padding: 0px;
+    letter-spacing: 3px;
+}
+#section2{
+    padding-top: 151px;
+    height: 44vh;
+}
+#line {
+
+    margin-top: 6px;
+}
+.cloud{
+    top: 667px;
+    height: 44vh;
+}
+#thisneom {
+    margin-right: -148px;
+    
+    /* color: white; */
+}
+.aboutneom{
+    font-size: 12px;
+}
+.contentofneom{
+    font-size: 15px;
+}
+#section3{
+    height: 68vh;
+}
+.imggroup {
+    height: 28vh;
+    width: 23vh;
+}
+.imggroup1 {
+    height: 28vh;
+    width: 23vh;
+}
+.img-col{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+.invest-head{
+    display: flex;
+    justify-content: center;
+    margin-top: -1px;
+    font-size: 24px;
+    margin-left: 0px;
+    padding: 1px;
+
+}
+.invest-content {
+
+    font-size: 108%;
+
+
+
+}
+.career-head{
+    display: flex;
+    justify-content: center;
+    margin-top: -1px;
+    font-size: 24px;
+    margin-left: 0px;
+    padding: 1px;
+
+}
+.career-content {
+font-size: 108%;
+text-align: justify;
+margin-left: 48px;
+
+}
+#section4{
+    height: 30vh;
+}
+#ourpartnervideo{
+   
+ height: 95vh;
+}
+#ourpartner{
+    margin-top:-1085px;
+}
+.part-head{
+    font-size: 24px;
+}
+.part-para{
+    font-size: 16px;
+    padding: 0px;
+    padding-top: 0px;
+
+}
+.buttonlearnpartner{
+    width: 149px;
+    height: 33px;
+    margin-top: 14px;
+}
+.buttonlearnpartner a{
+    font-size:18px ;
+}
+#happenneom{
+    padding-left: 40px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.slidesload img{
+    height: 21vh;
+    width: 19vh;
+}
+.slidercardiner h6{
+    font-size: 10px;
+    font-weight: 400;
+    text-align: justify;
+    padding-right: 21px;
+}
+.learnevtbtnpost a{
+    font-size: 10px;
+    padding: 0px;
+    padding-left: 39px;
+    padding-right: 39px;
+}
+.control-prev-btn,.control-next-btn{
+    top: 205%;
+}
+#section5{
+    height: 55vh;
+}
+.section6{
+    height: 33vh;
+
+}
+#newltrstc{
+    background-size: auto;
+}
+#nlhead{
+    font-size: 32px;
+    margin-top: 75px;
+}
+#nlsub{
+    font-size: 19px;
+}
+.formnl{
+    width: 265px;
+    height: 40px;
+}
+.formnl button{
+    margin-left: -25px;
+    height: 32px;
+    width: 82px;
+    font-size: 10px;
+}
+.text-ite{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 11px;
+}
+.text-uppercase{
+    font-size: 20px;
+}
+#footer{
+    padding-top: 2px;
+    height:51vh;
+}
+.social-media h3{
+ font-size: 15px;
+}
+}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {...}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
